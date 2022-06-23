@@ -1,2 +1,2 @@
-instructions to deploying the site
+instructions to deploying the site to the server
 ----------------------------------
