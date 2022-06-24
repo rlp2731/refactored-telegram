@@ -1,7 +1,5 @@
 instructions to deploying the site to the server
 ----------------------------------
 
-Installation on ISS
--------------------
+Content goes here!
 
-Content goes here
